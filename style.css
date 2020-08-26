@@ -1,0 +1,47 @@
+a.navbar-brand{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(41, 184, 162);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+h3{
+    color: rgb(41, 184, 162);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+p{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: large;
+   padding: 10px;
+}
+
+body{
+    background-color: rgb(228, 228, 228);
+}
+
+.img-thumbnail{
+    padding:10px;
+    border: none;
+}
+
+.col-md-12{
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.navbar{
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right: 50px;
+}
+
+.content {
+    padding-top: 40px;
+    padding-bottom: 75px;
+}
+
